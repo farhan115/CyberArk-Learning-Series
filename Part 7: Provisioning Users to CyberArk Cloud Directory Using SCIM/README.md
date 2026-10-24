@@ -48,6 +48,4 @@ It helps organizations create, update, and deactivate user accounts without manu
 
 **Important:** SCIM provisioning into CyberArk Cloud Directory depends on the supported CyberArk integration, tenant capabilities, and connector configuration. Federation and SCIM provisioning are separate processes.
 
-🎯 **Next Topic:** Troubleshooting SCIM Provisioning and User Synchronization in CyberArk Identity.
-
 #CyberArk #CyberArkIdentity #IAM #SCIM #MicrosoftEntraID #Okta #UserProvisioning #IdentityLifecycleManagement #Cybersecurity #IdentitySecurity #Automation
